@@ -83,5 +83,13 @@ button {
   letter-spacing: 0.04em;
 }
 
-
 /***********TASK-02************/
+.gallery {
+  display: flex;
+  gap: 48px 24px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.gallery-item img {
+  width: 360px;
+}
