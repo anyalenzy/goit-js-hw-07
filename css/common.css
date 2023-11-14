@@ -108,3 +108,73 @@ button {
   letter-spacing: 0.04em;
   margin-bottom: 16px;
 }
+
+/***********TASK-04************/
+.login-form {
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label {
+  margin-bottom: 16px;
+}
+
+.login-form input,
+.login-form button {
+  font: inherit;
+}
+.login-form input {
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid #808080;
+  padding: 8px 16px;
+}
+.login-form button {
+  color: #fff;
+  border-radius: 8px;
+  background: #4e75ff;
+  border: none;
+  max-width: 86px;
+  padding: 8px 0;
+  font-weight: 500;
+}
+.login-form button:focus,
+.login-form button:active,
+.login-form button:hover {
+  background: #6c8cff;
+}
+
+/***********TASK-05************/
+.widget {
+  text-align: center;
+}
+
+.widget p {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.widget span {
+  font-family: monospace;
+}
+
+.widget button {
+  padding: 8px 12px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  background: #4e75ff;
+  border: none;
+  color: #fff;
+  font: inherit;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.widget button:focus,
+.widget button:active,
+.widget button:hover {
+  background: #6c8cff;
+}
+
+/***********TASK-06************/
