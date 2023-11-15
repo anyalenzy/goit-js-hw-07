@@ -84,6 +84,7 @@ button {
 }
 
 /***********TASK-02************/
+
 .gallery {
   display: flex;
   gap: 48px 24px;
@@ -94,6 +95,7 @@ button {
   width: 360px;
 }
 /***********TASK-03************/
+
 #name-input {
   width: 360px;
   border-radius: 4px;
@@ -110,6 +112,7 @@ button {
 }
 
 /***********TASK-04************/
+
 .login-form {
   max-width: 320px;
   display: flex;
@@ -146,6 +149,7 @@ button {
 }
 
 /***********TASK-05************/
+
 .widget {
   text-align: center;
 }
